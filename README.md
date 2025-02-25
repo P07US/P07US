@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning how to use github for my work.
+- 📫 How to reach me: my email
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I like and make art.
 <!--
 **P07US/P07US** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
